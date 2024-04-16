@@ -40,6 +40,6 @@ Este projeto é uma análise descritiva dos dados do setor aéreo, buscando ente
 
 Dashboard: Google Data Studio
 
-StoryTellyng dos dados: https://www.canva.com/design/DAE9qit19-k/REt68PQtYQQmjPBBMjyc4w/view?utm_content=DAE9qit19-k&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink#1
+StoryTellyng dos dados: 
 
 Página do projeto no Notion:
