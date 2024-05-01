@@ -40,6 +40,6 @@ Este projeto é uma análise descritiva dos dados do setor aéreo, buscando ente
 
 Dashboard: Google Data Studio
 
-StoryTellyng dos dados: ProjetoFinal-SC-2.pdf
+StoryTellyng dos dados: [ProjetoFinal-SC-2](https://github.com/lucianabahia/Projeto-Engenharia-de-Dados/blob/main/ProjetoFinal-SC-2.pdf)
 
 Página do projeto no Notion:
